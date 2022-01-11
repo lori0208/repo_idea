@@ -8,4 +8,11 @@ package com.zxz.dao;
 public interface GitMapper {
 
     public void add();
+
+
+    public void add11();
+    public void add21();
+    public void add31();
+    public void add41();
+    public void add51();
 }
